@@ -2,7 +2,7 @@ public class my {
     public static void main(String[] args) {
         System.out.println("Система расчета стоимости топлива:");
 
-        int fuelType = 92;
+        int fuelType = 95;
         int amount = 50;
 
         double fuel92price = 60.2;
